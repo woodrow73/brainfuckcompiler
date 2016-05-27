@@ -1,7 +1,7 @@
 # brainfuckcompiler
 An interface for editing, compiling, loading and saving brainfuck files.
 
-The config file also enables one to adjust the following settings:
+The config file also enables one to adjust the following settings:\n
 root brainfuck folder path: null
 text area font size: 14
 number indexes in memory (note indexes wrap, doing < at 0 moves pointer to max index): 3200
